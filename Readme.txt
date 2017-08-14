@@ -2,7 +2,7 @@ Super Creeper
 A gamemode, based on the original "brick cancer" biomass scripts by Mr. Wallet
 
 // READ THIS //
-Congratulations on your purchase (!?) of the new creeper mod. Here is everything you need to know about how it works, what it does, and how to map for it. The fact that you're reading my code shows that you want to know how to mod or map for the gamemode, because Blockland is one of those games with one of those communities that doesn't know what documentation is.
+Congratulations on your download of the new creeper mod. Here is everything you need to know about how it works, what it does, and how to map for it. The fact that you're reading my code shows that you want to know how to mod or map for the gamemode, because Blockland is one of those games with one of those communities that doesn't know what documentation is.
 
 GAMEMODE LIST // (This is also in official Map config.cs files)
 
